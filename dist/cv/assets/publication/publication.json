@@ -1,0 +1,87 @@
+[
+    {
+        "titulo": "Science, Technology and Innovation: Visual Information in the Performance of Popular Music",
+        "event": "31st Congress of Latin American Young Researchers, UDELAR, Montevideo, Uruguay",
+        "file": "assets/publication/file1.pdf",
+        "year": "2024",         
+        "autores":[
+            {
+                "nombre": "Acosta Alejandro",
+                "correo": "acosta.alejandrodani@gmail.com"
+                
+            },
+            {
+                "nombre": "Russell Nicolás",
+                "correo": "nicopeiton@gmail.com"
+                
+            },
+
+            {
+                "nombre": "Calcagno Esteban",
+                "correo": "estebancalca@gmail.com"
+
+                
+            },
+            {
+                "nombre": "Vergara Ramiro",
+                "correo": "topovergara@gmail.com"
+                
+            }
+
+        ]
+       
+        
+        },
+    
+    {
+        "titulo": "Influence of Physical Distancing and Visual Information on Musical Performance",
+        "event": "18th Argentine Congress of Acoustics 2023 (AdAA2023), UNQ, Bs. As., Argentina",
+        "file": "assets/publication/file2.pdf",
+        "year": "2023", 
+        "ISBN": "",
+        "autores":[
+            {
+                "nombre": "Acosta Alejandro",
+                "correo": "acosta.alejandrodani@gmail.com"
+                
+            },
+            {
+                "nombre": "Russell Nicolás",
+                "correo": "nicopeiton@gmail.com"
+                
+            },
+
+            {
+                "nombre": "Calcagno Esteban",
+                "correo": "estebancalca@gmail.com"
+
+                
+            },
+            {
+                "nombre": "Vergara Ramiro",
+                "correo": "topovergara@gmail.com"
+                
+            }
+
+        ]
+        
+        
+        },
+
+    {
+        "titulo": "Development of a Social Network for Sound and Visual Art Based on User Data",
+        "event": "Art, Music, and Technology Conference (JamTec 2022), UNQ, Bs. As., Argentina",
+        "file": "assets/publication/file3.pdf",
+        "year": "2022", 
+        "ISBN": "978-987-558-824-0",
+        "autores":[
+            {
+                "nombre": "Acosta Alejandro",
+                "correo": "acosta.alejandrodani@gmail.com"
+                
+            }
+        ]
+        
+    }
+
+]
